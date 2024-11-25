@@ -1,0 +1,75 @@
+# Data Engineering Challenge Answers
+All code can be found in result_analysis.ipynb
+
+## Task 1: Average Number of Goals Per Game Between 1900 and 2000
+### Approach:
+To calculate the average number of goals per game between 1900 and 2000, I filtered the `results.csv` dataset and calculated the total goals by summing the home and away scores. The average was then computed by dividing the total goals by the number of games.
+
+### Answer:
+The average number of goals per game between 1900 and 2000 is approximately **3.07**.
+
+---
+## Task 2: Count the Number of Shootout Wins by Country (Alphabetical Order)
+### Approach:
+To determine the number of shootout wins by country, I used the `shootouts.csv` dataset and counted the occurrences of each country in the `winner` column, sorted alphabetically.
+
+### Answer:
+Here are the top few countries with the number of shootout wins:
+
+| Country        | Shootout Wins |
+|----------------|---------------|
+| Argentina      | 14            |
+| Algeria        | 7             |
+| Angola         | 7             |
+| Abkhazia       | 2             |
+| Åland Islands  | 2             |
+
+For a complete list, please refer to the `shootouts_wins.csv` file in the repo :)
+
+---
+
+## Task 3: Create a Reliable Key for Joining Datasets
+### Approach:
+To join the `goalscorers`, `results`, and `shootouts` datasets, I created a unique key by combining `date`, `home_team`, and `away_team`.
+
+### Answer:
+The reliable key for joining the datasets is:  
+`date_home_team_away_team`, which combines the match date, home team, and away team to uniquely identify each match.
+See goalscorers_with_key.csv to view it in action!
+
+---
+
+## Task 4: Identify Teams That Won a Penalty Shootout After a 1-1 Draw
+### Approach:
+I filtered the `results.csv` dataset for 1-1 draw matches, then merged it with the `shootouts.csv` dataset to identify which teams won the penalty shootout after the draw.
+
+### Answer:
+Here are the teams that won a penalty shootout after a 1-1 draw:
+
+| Date       | Home Team       | Away Team       | Winner         |
+|------------|-----------------|-----------------|----------------|
+| 1967-08-22 | India           | Taiwan          | Taiwan         |
+| 1971-11-14 | South Korea     | Vietnam Republic| South Korea    |
+| 1972-05-07 | South Korea     | Iraq            | Iraq           |
+
+For a complete list, please refer to the `draws_1_1_with_shootouts.csv` file in the repo :)
+---
+
+## Task 5: Top Goal Scorer by Tournament and Their Percentage of Total Goals
+### Approach:
+To find the top goal scorer for each tournament, I grouped the `goalscorers.csv` dataset by `tournament` and `scorer` and calculated the total number of goals scored by each player. I then calculated the percentage of goals scored by the top scorer.
+
+### Answer:
+Here are some of the top goal scorers by tournament:
+
+| Tournament             | Scorer             | Goals | Total Goals | Percentage of Total Goals |
+|------------------------|--------------------|-------|-------------|---------------------------|
+| AFC Asian Cup          | Ali Daei           | 14    | 987         | 1.42%                     |
+| African Cup of Nations | Samuel Eto'o       | 18    | 1767        | 1.02%                     |
+| FIFA World Cup         | Miroslav Klose     | 16    | 2720        | 0.59%                     |
+
+For a complete list, please refer to the `top_scorer_by_tournament.csv` file in the repo. :)
+
+
+## Additional tasks
+I am not ashamed to admit that I did find this challenge a bit harder and did not produce an adequate answer in the time frame provided. I will bring my answer to the assessment centre and mention it in the presentation.

@@ -1,0 +1,226 @@
+date_x,home_team_x,away_team_x,home_score,away_score,tournament,city,country,neutral,key,date_y,home_team_y,away_team_y,winner,first_shooter
+1967-08-22,India,Taiwan,1,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True,1967-08-22_India_Taiwan,1967-08-22,India,Taiwan,Taiwan,unknown
+1971-11-14,South Korea,Vietnam Republic,1,1,King's Cup,Bangkok,Thailand,True,1971-11-14_South Korea_Vietnam Republic,1971-11-14,South Korea,Vietnam Republic,South Korea,unknown
+1972-05-17,Thailand,South Korea,1,1,AFC Asian Cup,Bangkok,Thailand,False,1972-05-17_Thailand_South Korea,1972-05-17,Thailand,South Korea,South Korea,unknown
+1973-06-14,Guinea,Mali,1,1,African Cup of Nations qualification,Conakry,Guinea,False,1973-06-14_Guinea_Mali,1973-06-14,Guinea,Mali,Guinea,unknown
+1973-06-14,Mauritius,Tanzania,1,1,African Cup of Nations qualification,Port Louis,Mauritius,False,1973-06-14_Mauritius_Tanzania,1973-06-14,Mauritius,Tanzania,Mauritius,unknown
+1973-07-26,Cambodia,Singapore,1,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True,1973-07-26_Cambodia_Singapore,1973-07-26,Cambodia,Singapore,Singapore,unknown
+1973-08-09,India,Vietnam Republic,1,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True,1973-08-09_India_Vietnam Republic,1973-08-09,India,Vietnam Republic,Vietnam Republic,unknown
+1974-03-28,Qatar,United Arab Emirates,1,1,Gulf Cup,Kuwait City,Kuwait,True,1974-03-28_Qatar_United Arab Emirates,1974-03-28,Qatar,United Arab Emirates,Qatar,unknown
+1974-10-09,Syria,Morocco,1,1,Kuneitra Cup,Damascus,Syria,False,1974-10-09_Syria_Morocco,1974-10-09,Syria,Morocco,Morocco,unknown
+1976-12-22,South Korea,Malaysia,1,1,King's Cup,Bangkok,Thailand,True,1976-12-22_South Korea_Malaysia,1976-12-22,South Korea,Malaysia,Malaysia,unknown
+1977-01-09,Tunisia,Morocco,1,1,FIFA World Cup qualification,Tunis,Tunisia,False,1977-01-09_Tunisia_Morocco,1977-01-09,Tunisia,Morocco,Tunisia,unknown
+1977-03-22,Argentina,Iran,1,1,Real Madrid 75th Anniversary Cup,Madrid,Spain,True,1977-03-22_Argentina_Iran,1977-03-22,Argentina,Iran,Argentina,unknown
+1977-07-27,Iran,Morocco,1,1,Beijing International Friendship Tournament,Beijing,China PR,True,1977-07-27_Iran_Morocco,1977-07-27,Iran,Morocco,Iran,unknown
+1979-01-13,Guinea-Bissau,Mali,1,1,Amílcar Cabral Cup,Bissau,Guinea-Bissau,False,1979-01-13_Guinea-Bissau_Mali,1979-01-13,Guinea-Bissau,Mali,Mali,unknown
+1980-06-21,Italy,Czechoslovakia,1,1,UEFA Euro,Naples,Italy,False,1980-06-21_Italy_Czechoslovakia,1980-06-21,Italy,Czechoslovakia,Czechoslovakia,Italy
+1982-02-21,Ivory Coast,Togo,1,1,West African Cup,Cotonou,Benin,True,1982-02-21_Ivory Coast_Togo,1982-02-21,Ivory Coast,Togo,Togo,unknown
+1982-02-22,Ivory Coast,Burkina Faso,1,1,West African Cup,Cotonou,Benin,True,1982-02-22_Ivory Coast_Burkina Faso,1982-02-22,Ivory Coast,Burkina Faso,Burkina Faso,unknown
+1982-03-19,Libya,Ghana,1,1,African Cup of Nations,Tripoli,Libya,False,1982-03-19_Libya_Ghana,1982-03-19,Libya,Ghana,Ghana,unknown
+1982-11-27,Uganda,Kenya,1,1,CECAFA Cup,Kampala,Uganda,False,1982-11-27_Uganda_Kenya,1982-11-27,Uganda,Kenya,Kenya,unknown
+1983-02-27,Mali,Guinea,1,1,Friendly,Bamako,Mali,False,1983-02-27_Mali_Guinea,1983-02-27,Mali,Guinea,Mali,unknown
+1983-07-18,Hong Kong,Thailand,1,1,Great Wall Cup,Beijing,China PR,True,1983-07-18_Hong Kong_Thailand,1983-07-18,Hong Kong,Thailand,Thailand,unknown
+1983-12-15,Ivory Coast,Mali,1,1,Friendly,Abidjan,Ivory Coast,False,1983-12-15_Ivory Coast_Mali,1983-12-15,Ivory Coast,Mali,Ivory Coast,unknown
+1984-03-28,Iraq,Qatar,1,1,Gulf Cup,Muscat,Oman,True,1984-03-28_Iraq_Qatar,1984-03-28,Iraq,Qatar,Iraq,unknown
+1984-06-24,Denmark,Spain,1,1,UEFA Euro,Lyon,France,True,1984-06-24_Denmark_Spain,1984-06-24,Denmark,Spain,Spain,Denmark
+1984-11-28,Ghana,Togo,1,1,West African Cup,Ouagadougou,Burkina Faso,True,1984-11-28_Ghana_Togo,1984-11-28,Ghana,Togo,Ghana,unknown
+1984-12-08,Kenya,Somalia,1,1,CECAFA Cup,Mbale,Uganda,True,1984-12-08_Kenya_Somalia,1984-12-08,Kenya,Somalia,Kenya,unknown
+1984-12-13,Saudi Arabia,Iran,1,1,AFC Asian Cup,Kallang,Singapore,True,1984-12-13_Saudi Arabia_Iran,1984-12-13,Saudi Arabia,Iran,Saudi Arabia,unknown
+1984-12-16,Chad,Equatorial Guinea,1,1,UDEAC Cup,Brazzaville,Congo,True,1984-12-16_Chad_Equatorial Guinea,1984-12-16,Chad,Equatorial Guinea,Chad,unknown
+1984-12-16,Iran,Kuwait,1,1,AFC Asian Cup,Kallang,Singapore,True,1984-12-16_Iran_Kuwait,1984-12-16,Iran,Kuwait,Kuwait,unknown
+1985-04-16,Mozambique,Malawi,1,1,African Cup of Nations qualification,Maputo,Mozambique,False,1985-04-16_Mozambique_Malawi,1985-04-16,Mozambique,Malawi,Mozambique,unknown
+1985-07-10,Bahrain,Qatar,1,1,Arab Cup,Taif,Saudi Arabia,True,1985-07-10_Bahrain_Qatar,1985-07-10,Bahrain,Qatar,Bahrain,unknown
+1985-08-25,Mali,Guinea,1,1,Friendly,Bamako,Mali,False,1985-08-25_Mali_Guinea,1985-08-25,Mali,Guinea,Guinea,unknown
+1986-06-21,Brazil,France,1,1,FIFA World Cup,Guadalajara,Mexico,True,1986-06-21_Brazil_France,1986-06-21,Brazil,France,France,Brazil
+1986-06-22,Spain,Belgium,1,1,FIFA World Cup,Puebla,Mexico,True,1986-06-22_Spain_Belgium,1986-06-22,Spain,Belgium,Belgium,Spain
+1987-06-21,South Korea,Australia,1,1,Korea Cup,Seoul,South Korea,False,1987-06-21_South Korea_Australia,1987-06-21,South Korea,Australia,South Korea,unknown
+1987-12-13,Malawi,Zimbabwe,1,1,CECAFA Cup,Addis Ababa,Ethiopia,True,1987-12-13_Malawi_Zimbabwe,1987-12-13,Malawi,Zimbabwe,Zimbabwe,unknown
+1987-12-27,Ethiopia,Zimbabwe,1,1,CECAFA Cup,Addis Ababa,Ethiopia,False,1987-12-27_Ethiopia_Zimbabwe,1987-12-27,Ethiopia,Zimbabwe,Ethiopia,unknown
+1988-01-06,South Korea,Egypt,1,1,Friendly,Doha,Qatar,True,1988-01-06_South Korea_Egypt,1988-01-06,South Korea,Egypt,South Korea,unknown
+1988-03-23,Algeria,Nigeria,1,1,African Cup of Nations,Rabat,Morocco,True,1988-03-23_Algeria_Nigeria,1988-03-23,Algeria,Nigeria,Nigeria,unknown
+1988-03-26,Morocco,Algeria,1,1,African Cup of Nations,Casablanca,Morocco,False,1988-03-26_Morocco_Algeria,1988-03-26,Morocco,Algeria,Algeria,unknown
+1988-03-31,Germany,Sweden,1,1,Friendly,Berlin,Germany,False,1988-03-31_Germany_Sweden,1988-03-31,Germany,Sweden,Sweden,unknown
+1988-05-05,Mali,Senegal,1,1,Amílcar Cabral Cup,Bissau,Guinea-Bissau,True,1988-05-05_Mali_Senegal,1988-05-05,Mali,Senegal,Mali,unknown
+1988-07-21,Iraq,Syria,1,1,Arab Cup,Amman,Jordan,True,1988-07-21_Iraq_Syria,1988-07-21,Iraq,Syria,Iraq,unknown
+1988-10-16,Eswatini,Tanzania,1,1,African Cup of Nations qualification,Mbabane,Eswatini,False,1988-10-16_Eswatini_Tanzania,1988-10-16,Eswatini,Tanzania,Eswatini,unknown
+1989-11-12,Iraq,Uganda,1,1,Friendly,Kuwait City,Kuwait,True,1989-11-12_Iraq_Uganda,1989-11-12,Iraq,Uganda,Iraq,unknown
+1990-01-28,Nigeria,Senegal,1,1,Friendly,Bauchi,Nigeria,False,1990-01-28_Nigeria_Senegal,1990-01-28,Nigeria,Senegal,Nigeria,unknown
+1990-02-04,United States,Colombia,1,1,Friendly,Miami,United States,False,1990-02-04_United States_Colombia,1990-02-04,United States,Colombia,Colombia,unknown
+1990-07-03,Italy,Argentina,1,1,FIFA World Cup,Naples,Italy,False,1990-07-03_Italy_Argentina,1990-07-03,Italy,Argentina,Argentina,Italy
+1990-07-04,Germany,England,1,1,FIFA World Cup,Turin,Italy,True,1990-07-04_Germany_England,1990-07-04,Germany,England,Germany,England
+1990-08-03,China PR,South Korea,1,1,Dynasty Cup,Beijing,China PR,False,1990-08-03_China PR_South Korea,1990-08-03,China PR,South Korea,South Korea,unknown
+1990-12-17,Tanzania,Uganda,1,1,Friendly,Zanzibar,Zanzibar,True,1990-12-17_Tanzania_Uganda,1990-12-17,Tanzania,Uganda,Uganda,unknown
+1991-01-23,Ivory Coast,Cameroon,1,1,Dakar Tournament,Dakar,Senegal,True,1991-01-23_Ivory Coast_Cameroon,1991-01-23,Ivory Coast,Cameroon,Ivory Coast,unknown
+1991-06-16,Italy,Russia,1,1,Friendly,Solna,Sweden,True,1991-06-16_Italy_Russia,1991-06-16,Italy,Russia,Italy,unknown
+1991-09-20,Fiji,Solomon Islands,1,1,South Pacific Games,Lae,Papua New Guinea,True,1991-09-20_Fiji_Solomon Islands,1991-09-20,Fiji,Solomon Islands,Fiji,unknown
+1992-06-27,Cuba,Martinique,1,1,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,True,1992-06-27_Cuba_Martinique,1992-06-27,Cuba,Martinique,Martinique,unknown
+1992-11-08,China PR,United Arab Emirates,1,1,AFC Asian Cup,Hiroshima,Japan,True,1992-11-08_China PR_United Arab Emirates,1992-11-08,China PR,United Arab Emirates,China PR,unknown
+1993-01-23,Japan,Switzerland,1,1,Friendly,Hong Kong,Hong Kong,True,1993-01-23_Japan_Switzerland,1993-01-23,Japan,Switzerland,Switzerland,unknown
+1993-02-24,Argentina,Denmark,1,1,CONMEBOL–UEFA Cup of Champions,Mar del Plata,Argentina,False,1993-02-24_Argentina_Denmark,1993-02-24,Argentina,Denmark,Argentina,unknown
+1993-05-28,Martinique,Saint Kitts and Nevis,1,1,CFU Caribbean Cup,Montego Bay,Jamaica,True,1993-05-28_Martinique_Saint Kitts and Nevis,1993-05-28,Martinique,Saint Kitts and Nevis,Martinique,unknown
+1993-06-26,Colombia,Uruguay,1,1,Copa América,Guayaquil,Ecuador,True,1993-06-26_Colombia_Uruguay,1993-06-26,Colombia,Uruguay,Colombia,Colombia
+1993-06-27,Brazil,Argentina,1,1,Copa América,Guayaquil,Ecuador,True,1993-06-27_Brazil_Argentina,1993-06-27,Brazil,Argentina,Argentina,Brazil
+1994-01-29,Burkina Faso,Guinea,1,1,Friendly,Ouagadougou,Burkina Faso,False,1994-01-29_Burkina Faso_Guinea,1994-01-29,Burkina Faso,Guinea,Burkina Faso,unknown
+1994-07-05,Mexico,Bulgaria,1,1,FIFA World Cup,East Rutherford,United States,True,1994-07-05_Mexico_Bulgaria,1994-07-05,Mexico,Bulgaria,Bulgaria,Mexico
+1995-01-10,Denmark,Mexico,1,1,Confederations Cup,Riyadh,Saudi Arabia,True,1995-01-10_Denmark_Mexico,1995-01-10,Denmark,Mexico,Denmark,unknown
+1995-01-13,Mexico,Nigeria,1,1,Confederations Cup,Riyadh,Saudi Arabia,True,1995-01-13_Mexico_Nigeria,1995-01-13,Mexico,Nigeria,Mexico,unknown
+1995-07-16,Paraguay,Colombia,1,1,Copa América,Montevideo,Uruguay,True,1995-07-16_Paraguay_Colombia,1995-07-16,Paraguay,Colombia,Colombia,Colombia
+1995-07-23,Uruguay,Brazil,1,1,Copa América,Montevideo,Uruguay,False,1995-07-23_Uruguay_Brazil,1995-07-23,Uruguay,Brazil,Uruguay,Uruguay
+1995-12-06,Ethiopia,Zanzibar,1,1,CECAFA Cup,Kampala,Uganda,True,1995-12-06_Ethiopia_Zanzibar,1995-12-06,Ethiopia,Zanzibar,Zanzibar,unknown
+1995-12-07,Honduras,Costa Rica,1,1,UNCAF Cup,San Salvador,El Salvador,True,1995-12-07_Honduras_Costa Rica,1995-12-07,Honduras,Costa Rica,Honduras,unknown
+1996-01-28,Gabon,Tunisia,1,1,African Cup of Nations,Durban,South Africa,True,1996-01-28_Gabon_Tunisia,1996-01-28,Gabon,Tunisia,Tunisia,unknown
+1996-02-22,Japan,Sweden,1,1,Lunar New Year Cup,So Kon Po,Hong Kong,True,1996-02-22_Japan_Sweden,1996-02-22,Japan,Sweden,Sweden,unknown
+1996-06-05,Martinique,Suriname,1,1,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,True,1996-06-05_Martinique_Suriname,1996-06-05,Martinique,Suriname,Martinique,unknown
+1996-06-26,England,Germany,1,1,UEFA Euro,London,England,False,1996-06-26_England_Germany,1996-06-26,England,Germany,Germany,England
+1996-08-25,Ethiopia,Uganda,1,1,African Cup of Nations qualification,Addis Ababa,Ethiopia,False,1996-08-25_Ethiopia_Uganda,1996-08-25,Ethiopia,Uganda,Ethiopia,unknown
+1996-11-29,Sudan,Kenya,1,1,Friendly,Khartoum,Sudan,False,1996-11-29_Sudan_Kenya,1996-11-29,Sudan,Kenya,Sudan,unknown
+1996-12-12,Croatia,Czech Republic,1,1,King Hassan II Tournament,Casablanca,Morocco,True,1996-12-12_Croatia_Czech Republic,1996-12-12,Croatia,Czech Republic,Croatia,unknown
+1996-12-21,Iran,Kuwait,1,1,AFC Asian Cup,Abu Dhabi,United Arab Emirates,True,1996-12-21_Iran_Kuwait,1996-12-21,Iran,Kuwait,Iran,unknown
+1997-02-07,Russia,Serbia,1,1,Lunar New Year Cup,So Kon Po,Hong Kong,True,1997-02-07_Russia_Serbia,1997-02-07,Russia,Serbia,Russia,unknown
+1997-04-10,India,Iraq,1,1,Nehru Cup,Kochi,India,False,1997-04-10_India_Iraq,1997-04-10,India,Iraq,Iraq,unknown
+1997-06-22,Ecuador,Mexico,1,1,Copa América,Cochabamba,Bolivia,True,1997-06-22_Ecuador_Mexico,1997-06-22,Ecuador,Mexico,Mexico,Ecuador
+1997-07-10,Trinidad and Tobago,Jamaica,1,1,CFU Caribbean Cup,St. John's,Antigua and Barbuda,True,1997-07-10_Trinidad and Tobago_Jamaica,1997-07-10,Trinidad and Tobago,Jamaica,Trinidad and Tobago,unknown
+1997-10-22,Cuba,Cameroon,1,1,Friendly,Port-au-Prince,Haiti,True,1997-10-22_Cuba_Cameroon,1997-10-22,Cuba,Cameroon,Cuba,unknown
+1998-01-31,Egypt,South Korea,1,1,King's Cup,Bangkok,Thailand,True,1998-01-31_Egypt_South Korea,1998-01-31,Egypt,South Korea,South Korea,unknown
+1998-01-31,Iran,Chile,1,1,Lunar New Year Cup,So Kon Po,Hong Kong,True,1998-01-31_Iran_Chile,1998-01-31,Iran,Chile,Iran,unknown
+1998-02-21,Burkina Faso,Tunisia,1,1,African Cup of Nations,Ouagadougou,Burkina Faso,False,1998-02-21_Burkina Faso_Tunisia,1998-02-21,Burkina Faso,Tunisia,Burkina Faso,unknown
+1998-07-07,Brazil,Netherlands,1,1,FIFA World Cup,Marseille,France,True,1998-07-07_Brazil_Netherlands,1998-07-07,Brazil,Netherlands,Brazil,Brazil
+1999-05-22,Malawi,Namibia,1,1,COSAFA Cup qualification,Blantyre,Malawi,False,1999-05-22_Malawi_Namibia,1999-05-22,Malawi,Namibia,Namibia,unknown
+1999-07-10,Paraguay,Uruguay,1,1,Copa América,Asunción,Paraguay,False,1999-07-10_Paraguay_Uruguay,1999-07-10,Paraguay,Uruguay,Uruguay,Uruguay
+1999-07-13,Uruguay,Chile,1,1,Copa América,Asunción,Paraguay,True,1999-07-13_Uruguay_Chile,1999-07-13,Uruguay,Chile,Uruguay,Uruguay
+1999-07-18,Eswatini,Zimbabwe,1,1,COSAFA Cup,Lobamba,Eswatini,False,1999-07-18_Eswatini_Zimbabwe,1999-07-18,Eswatini,Zimbabwe,Eswatini,unknown
+1999-07-31,Namibia,South Africa,1,1,COSAFA Cup,Windhoek,Namibia,False,1999-07-31_Namibia_South Africa,1999-07-31,Namibia,South Africa,Namibia,unknown
+1999-08-07,Zambia,Mozambique,1,1,COSAFA Cup,Lusaka,Zambia,False,1999-08-07_Zambia_Mozambique,1999-08-07,Zambia,Mozambique,Zambia,unknown
+1999-08-28,Namibia,Eswatini,1,1,COSAFA Cup,Windhoek,Namibia,False,1999-08-28_Namibia_Eswatini,1999-08-28,Namibia,Eswatini,Namibia,unknown
+2000-02-04,Romania,Georgia,1,1,Cyprus International Tournament,Larnaca,Cyprus,True,2000-02-04_Romania_Georgia,2000-02-04,Romania,Georgia,Romania,unknown
+2000-04-30,British Virgin Islands,Antigua and Barbuda,1,1,Friendly,Road Town,British Virgin Islands,False,2000-04-30_British Virgin Islands_Antigua and Barbuda,2000-04-30,British Virgin Islands,Antigua and Barbuda,Antigua and Barbuda,unknown
+2000-05-10,Maldives,Sri Lanka,1,1,Friendly,Malé,Maldives,False,2000-05-10_Maldives_Sri Lanka,2000-05-10,Maldives,Sri Lanka,Sri Lanka,unknown
+2000-05-21,Barbados,Cuba,1,1,FIFA World Cup qualification,Bridgetown,Barbados,False,2000-05-21_Barbados_Cuba,2000-05-21,Barbados,Cuba,Barbados,unknown
+2000-06-07,Iran,Egypt,1,1,Friendly,Tehran,Iran,False,2000-06-07_Iran_Egypt,2000-06-07,Iran,Egypt,Egypt,unknown
+2000-10-04,United Arab Emirates,South Korea,1,1,United Arab Emirates Friendship Tournament,Dubai,United Arab Emirates,False,2000-10-04_United Arab Emirates_South Korea,2000-10-04,United Arab Emirates,South Korea,United Arab Emirates,unknown
+2000-10-28,Kenya,Uganda,1,1,Friendly,Nairobi,Kenya,False,2000-10-28_Kenya_Uganda,2000-10-28,Kenya,Uganda,Uganda,unknown
+2000-12-02,Ethiopia,Rwanda,1,1,Friendly,Kampala,Uganda,True,2000-12-02_Ethiopia_Rwanda,2000-12-02,Ethiopia,Rwanda,Ethiopia,unknown
+2001-01-27,South Korea,Paraguay,1,1,Lunar New Year Cup,So Kon Po,Hong Kong,True,2001-01-27_South Korea_Paraguay,2001-01-27,South Korea,Paraguay,South Korea,unknown
+2001-08-03,Kuwait,Trinidad and Tobago,1,1,Friendly,Shanghai,China PR,True,2001-08-03_Kuwait_Trinidad and Tobago,2001-08-03,Kuwait,Trinidad and Tobago,Kuwait,unknown
+2001-08-05,Kuwait,North Korea,1,1,Friendly,Shanghai,China PR,True,2001-08-05_Kuwait_North Korea,2001-08-05,Kuwait,North Korea,North Korea,unknown
+2001-08-18,Zambia,Angola,1,1,COSAFA Cup,Lusaka,Zambia,False,2001-08-18_Zambia_Angola,2001-08-18,Zambia,Angola,Angola,unknown
+2002-01-26,Canada,Martinique,1,1,Gold Cup,Miami,United States,True,2002-01-26_Canada_Martinique,2002-01-26,Canada,Martinique,Canada,unknown
+2002-02-12,Cyprus,Switzerland,1,1,Cyprus International Tournament,Nicosia,Cyprus,False,2002-02-12_Cyprus_Switzerland,2002-02-12,Cyprus,Switzerland,Cyprus,unknown
+2002-05-17,Russia,Belarus,1,1,Friendly,Moscow,Russia,False,2002-05-17_Russia_Belarus,2002-05-17,Russia,Belarus,Belarus,unknown
+2002-05-19,Russia,Serbia,1,1,Friendly,Moscow,Russia,False,2002-05-19_Russia_Serbia,2002-05-19,Russia,Serbia,Serbia,unknown
+2002-06-16,Spain,Republic of Ireland,1,1,FIFA World Cup,Suwon,South Korea,True,2002-06-16_Spain_Republic of Ireland,2002-06-16,Spain,Republic of Ireland,Spain,Republic of Ireland
+2002-09-17,Iran,Morocco,1,1,Friendly,Tabriz,Iran,False,2002-09-17_Iran_Morocco,2002-09-17,Iran,Morocco,Iran,unknown
+2002-09-19,Iran,Paraguay,1,1,Friendly,Tabriz,Iran,False,2002-09-19_Iran_Paraguay,2002-09-19,Iran,Paraguay,Iran,unknown
+2002-10-23,Kenya,South Africa,1,1,Friendly,Arusha,Tanzania,True,2002-10-23_Kenya_South Africa,2002-10-23,Kenya,South Africa,Kenya,unknown
+2002-10-26,Kenya,Uganda,1,1,Friendly,Dar es Salaam,Tanzania,True,2002-10-26_Kenya_Uganda,2002-10-26,Kenya,Uganda,Kenya,unknown
+2002-10-26,Tanzania,South Africa,1,1,Friendly,Dar es Salaam,Tanzania,False,2002-10-26_Tanzania_South Africa,2002-10-26,Tanzania,South Africa,South Africa,unknown
+2002-11-19,South Africa,Senegal,1,1,Friendly,Johannesburg,South Africa,False,2002-11-19_South Africa_Senegal,2002-11-19,South Africa,Senegal,Senegal,unknown
+2002-12-27,Niger,Burkina Faso,1,1,Friendly,Niamey,Niger,False,2002-12-27_Niger_Burkina Faso,2002-12-27,Niger,Burkina Faso,Burkina Faso,unknown
+2003-01-20,Bangladesh,Maldives,1,1,SAFF Cup,Dhaka,Bangladesh,False,2003-01-20_Bangladesh_Maldives,2003-01-20,Bangladesh,Maldives,Bangladesh,unknown
+2003-02-04,Uruguay,Iran,1,1,Lunar New Year Cup,So Kon Po,Hong Kong,True,2003-02-04_Uruguay_Iran,2003-02-04,Uruguay,Iran,Uruguay,unknown
+2003-03-07,Benin,Niger,1,1,TIFOCO Tournament,Cotonou,Benin,False,2003-03-07_Benin_Niger,2003-03-07,Benin,Niger,Benin,unknown
+2003-05-24,Botswana,Malawi,1,1,COSAFA Cup,Gaborone,Botswana,False,2003-05-24_Botswana_Malawi,2003-05-24,Botswana,Malawi,Malawi,unknown
+2003-07-09,New Caledonia,Vanuatu,1,1,South Pacific Games,Lautoka,Fiji,True,2003-07-09_New Caledonia_Vanuatu,2003-07-09,New Caledonia,Vanuatu,New Caledonia,unknown
+2003-08-16,Malawi,Zambia,1,1,COSAFA Cup,Blantyre,Malawi,False,2003-08-16_Malawi_Zambia,2003-08-16,Malawi,Zambia,Malawi,unknown
+2003-12-08,Kenya,Rwanda,1,1,CECAFA Cup,Khartoum,Sudan,True,2003-12-08_Kenya_Rwanda,2003-12-08,Kenya,Rwanda,Rwanda,unknown
+2004-02-11,Tunisia,Nigeria,1,1,African Cup of Nations,Radès,Tunisia,False,2004-02-11_Tunisia_Nigeria,2004-02-11,Tunisia,Nigeria,Tunisia,unknown
+2004-06-23,Jordan,Syria,1,1,WAFF Championship,Tehran,Iran,True,2004-06-23_Jordan_Syria,2004-06-23,Jordan,Syria,Syria,unknown
+2004-07-18,Angola,Botswana,1,1,COSAFA Cup,Luanda,Angola,False,2004-07-18_Angola_Botswana,2004-07-18,Angola,Botswana,Angola,unknown
+2004-07-21,Uruguay,Brazil,1,1,Copa América,Lima,Peru,True,2004-07-21_Uruguay_Brazil,2004-07-21,Uruguay,Brazil,Brazil,Brazil
+2004-07-31,Japan,Jordan,1,1,AFC Asian Cup,Chongqing,China PR,True,2004-07-31_Japan_Jordan,2004-07-31,Japan,Jordan,Japan,unknown
+2004-08-03,China PR,Iran,1,1,AFC Asian Cup,Beijing,China PR,False,2004-08-03_China PR_Iran,2004-08-03,China PR,Iran,China PR,unknown
+2004-12-02,Thailand,Slovakia,1,1,King's Cup,Bangkok,Thailand,False,2004-12-02_Thailand_Slovakia,2004-12-02,Thailand,Slovakia,Slovakia,unknown
+2004-12-24,Qatar,Oman,1,1,Gulf Cup,Doha,Qatar,False,2004-12-24_Qatar_Oman,2004-12-24,Qatar,Oman,Qatar,unknown
+2005-02-08,Cyprus,Austria,1,1,Cyprus International Tournament,Limassol,Cyprus,False,2005-02-08_Cyprus_Austria,2005-02-08,Cyprus,Austria,Cyprus,unknown
+2005-02-09,Austria,Latvia,1,1,Cyprus International Tournament,Limassol,Cyprus,True,2005-02-09_Austria_Latvia,2005-02-09,Austria,Latvia,Latvia,unknown
+2005-02-27,Costa Rica,Honduras,1,1,UNCAF Cup,Guatemala,Guatemala,True,2005-02-27_Costa Rica_Honduras,2005-02-27,Costa Rica,Honduras,Costa Rica,unknown
+2005-04-16,Namibia,Botswana,1,1,COSAFA Cup,Windhoek,Namibia,False,2005-04-16_Namibia_Botswana,2005-04-16,Namibia,Botswana,Botswana,unknown
+2005-06-26,Mexico,Argentina,1,1,Confederations Cup,Hanover,Germany,True,2005-06-26_Mexico_Argentina,2005-06-26,Mexico,Argentina,Argentina,unknown
+2005-07-28,Kuwait,United Arab Emirates,1,1,Friendly,Geneva,Switzerland,True,2005-07-28_Kuwait_United Arab Emirates,2005-07-28,Kuwait,United Arab Emirates,United Arab Emirates,unknown
+2006-02-04,Cameroon,Ivory Coast,1,1,African Cup of Nations,Cairo,Egypt,True,2006-02-04_Cameroon_Ivory Coast,2006-02-04,Cameroon,Ivory Coast,Ivory Coast,unknown
+2006-02-04,Nigeria,Tunisia,1,1,African Cup of Nations,Port Said,Egypt,True,2006-02-04_Nigeria_Tunisia,2006-02-04,Nigeria,Tunisia,Nigeria,unknown
+2006-06-30,Germany,Argentina,1,1,FIFA World Cup,Berlin,Germany,False,2006-06-30_Germany_Argentina,2006-06-30,Germany,Argentina,Germany,Germany
+2006-07-09,Italy,France,1,1,FIFA World Cup,Berlin,Germany,True,2006-07-09_Italy_France,2006-07-09,Italy,France,Italy,Italy
+2006-07-22,Namibia,Seychelles,1,1,COSAFA Cup,Windhoek,Namibia,False,2006-07-22_Namibia_Seychelles,2006-07-22,Namibia,Seychelles,Seychelles,unknown
+2007-07-21,Japan,Australia,1,1,AFC Asian Cup,Hanoi,Vietnam,True,2007-07-21_Japan_Australia,2007-07-21,Japan,Australia,Japan,unknown
+2008-06-20,Croatia,Turkey,1,1,UEFA Euro,Vienna,Austria,True,2008-06-20_Croatia_Turkey,2008-06-20,Croatia,Turkey,Turkey,Croatia
+2009-07-23,Costa Rica,Mexico,1,1,Gold Cup,Chicago,United States,True,2009-07-23_Costa Rica_Mexico,2009-07-23,Costa Rica,Mexico,Mexico,unknown
+2009-10-28,Zimbabwe,South Africa,1,1,COSAFA Cup,Harare,Zimbabwe,False,2009-10-28_Zimbabwe_South Africa,2009-10-28,Zimbabwe,South Africa,Zimbabwe,unknown
+2010-07-02,Uruguay,Ghana,1,1,FIFA World Cup,Johannesburg,South Africa,True,2010-07-02_Uruguay_Ghana,2010-07-02,Uruguay,Ghana,Uruguay,Uruguay
+2011-02-09,Sweden,Ukraine,1,1,Cyprus International Tournament,Nicosia,Cyprus,True,2011-02-09_Sweden_Ukraine,2011-02-09,Sweden,Ukraine,Ukraine,unknown
+2011-06-08,Uruguay,Netherlands,1,1,Copa Confraternidad,Montevideo,Uruguay,False,2011-06-08_Uruguay_Netherlands,2011-06-08,Uruguay,Netherlands,Uruguay,unknown
+2011-06-18,Costa Rica,Honduras,1,1,Gold Cup,East Rutherford,United States,True,2011-06-18_Costa Rica_Honduras,2011-06-18,Costa Rica,Honduras,Honduras,unknown
+2011-06-19,Panama,El Salvador,1,1,Gold Cup,Washington,United States,True,2011-06-19_Panama_El Salvador,2011-06-19,Panama,El Salvador,Panama,unknown
+2011-07-16,Argentina,Uruguay,1,1,Copa América,Santa Fe,Argentina,False,2011-07-16_Argentina_Uruguay,2011-07-16,Argentina,Uruguay,Uruguay,Argentina
+2012-02-05,Gabon,Mali,1,1,African Cup of Nations,Libreville,Gabon,False,2012-02-05_Gabon_Mali,2012-02-05,Gabon,Mali,Mali,unknown
+2012-06-03,Finland,Latvia,1,1,Baltic Cup,Võru,Estonia,True,2012-06-03_Finland_Latvia,2012-06-03,Finland,Latvia,Latvia,unknown
+2013-01-23,Sweden,North Korea,1,1,King's Cup,Chiang Mai,Thailand,True,2013-01-23_Sweden_North Korea,2013-01-23,Sweden,North Korea,Sweden,unknown
+2013-02-02,South Africa,Mali,1,1,African Cup of Nations,Durban,South Africa,False,2013-02-02_South Africa_Mali,2013-02-02,South Africa,Mali,Mali,unknown
+2013-02-06,Burkina Faso,Ghana,1,1,African Cup of Nations,Nelspruit,South Africa,True,2013-02-06_Burkina Faso_Ghana,2013-02-06,Burkina Faso,Ghana,Burkina Faso,unknown
+2013-07-13,Zimbabwe,Malawi,1,1,COSAFA Cup,Lusaka,Zambia,True,2013-07-13_Zimbabwe_Malawi,2013-07-13,Zimbabwe,Malawi,Zimbabwe,unknown
+2013-07-14,Angola,Lesotho,1,1,COSAFA Cup,Kitwe,Zambia,True,2013-07-14_Angola_Lesotho,2013-07-14,Angola,Lesotho,Lesotho,unknown
+2014-06-04,Ellan Vannin,Iraqi Kurdistan,1,1,CONIFA World Football Cup,Östersund,Sweden,True,2014-06-04_Ellan Vannin_Iraqi Kurdistan,2014-06-04,Ellan Vannin,Iraqi Kurdistan,Ellan Vannin,unknown
+2014-06-07,Padania,Iraqi Kurdistan,1,1,CONIFA World Football Cup,Östersund,Sweden,True,2014-06-07_Padania_Iraqi Kurdistan,2014-06-07,Padania,Iraqi Kurdistan,Padania,unknown
+2014-06-28,Brazil,Chile,1,1,FIFA World Cup,Belo Horizonte,Brazil,False,2014-06-28_Brazil_Chile,2014-06-28,Brazil,Chile,Brazil,Brazil
+2014-06-29,Costa Rica,Greece,1,1,FIFA World Cup,Recife,Brazil,True,2014-06-29_Costa Rica_Greece,2014-06-29,Costa Rica,Greece,Costa Rica,Costa Rica
+2015-01-23,Japan,United Arab Emirates,1,1,AFC Asian Cup,Sydney,Australia,True,2015-01-23_Japan_United Arab Emirates,2015-01-23,Japan,United Arab Emirates,United Arab Emirates,unknown
+2015-06-21,Ellan Vannin,Felvidék,1,1,CONIFA European Football Cup,Debrecen,Hungary,True,2015-06-21_Ellan Vannin_Felvidék,2015-06-21,Ellan Vannin,Felvidék,Ellan Vannin,unknown
+2015-06-27,Brazil,Paraguay,1,1,Copa América,Concepción,Chile,True,2015-06-27_Brazil_Paraguay,2015-06-27,Brazil,Paraguay,Paraguay,Brazil
+2015-07-19,Trinidad and Tobago,Panama,1,1,Gold Cup,East Rutherford,United States,True,2015-07-19_Trinidad and Tobago_Panama,2015-07-19,Trinidad and Tobago,Panama,Panama,unknown
+2015-07-25,United States,Panama,1,1,Gold Cup,Chester,United States,False,2015-07-25_United States_Panama,2015-07-25,United States,Panama,Panama,unknown
+2015-10-13,El Salvador,Guatemala,1,1,Friendly,Carson,United States,True,2015-10-13_El Salvador_Guatemala,2015-10-13,El Salvador,Guatemala,Guatemala,unknown
+2016-02-03,DR Congo,Guinea,1,1,African Nations Championship,Kigali,Rwanda,True,2016-02-03_DR Congo_Guinea,2016-02-03,DR Congo,Guinea,DR Congo,unknown
+2016-05-27,Corsica,Basque Country,1,1,Friendly,Ajaccio,France,False,2016-05-27_Corsica_Basque Country,2016-05-27,Corsica,Basque Country,Basque Country,unknown
+2016-06-01,United Koreans in Japan,Northern Cyprus,1,1,CONIFA World Football Cup,Sukhumi,Georgia,True,2016-06-01_United Koreans in Japan_Northern Cyprus,2016-06-01,United Koreans in Japan,Northern Cyprus,Northern Cyprus,unknown
+2016-06-04,United Koreans in Japan,Iraqi Kurdistan,1,1,CONIFA World Football Cup,Sukhumi,Georgia,True,2016-06-04_United Koreans in Japan_Iraqi Kurdistan,2016-06-04,United Koreans in Japan,Iraqi Kurdistan,United Koreans in Japan,unknown
+2016-06-05,Abkhazia,Panjab,1,1,CONIFA World Football Cup,Sukhumi,Georgia,False,2016-06-05_Abkhazia_Panjab,2016-06-05,Abkhazia,Panjab,Abkhazia,unknown
+2016-06-18,South Africa,Lesotho,1,1,COSAFA Cup,Windhoek,Namibia,True,2016-06-18_South Africa_Lesotho,2016-06-18,South Africa,Lesotho,South Africa,unknown
+2016-06-18,Namibia,Botswana,1,1,COSAFA Cup,Windhoek,Namibia,False,2016-06-18_Namibia_Botswana,2016-06-18,Namibia,Botswana,Botswana,unknown
+2016-06-25,Switzerland,Poland,1,1,UEFA Euro,Saint-Étienne,France,True,2016-06-25_Switzerland_Poland,2016-06-25,Switzerland,Poland,Poland,Switzerland
+2016-06-30,Poland,Portugal,1,1,UEFA Euro,Marseille,France,True,2016-06-30_Poland_Portugal,2016-06-30,Poland,Portugal,Portugal,Portugal
+2016-07-02,Germany,Italy,1,1,UEFA Euro,Bordeaux,France,True,2016-07-02_Germany_Italy,2016-07-02,Germany,Italy,Germany,Italy
+2017-01-11,Chile,Croatia,1,1,Friendly,Nanning,China PR,True,2017-01-11_Chile_Croatia,2017-01-11,Chile,Croatia,Chile,unknown
+2017-01-14,China PR,Croatia,1,1,Friendly,Nanning,China PR,False,2017-01-14_China PR_Croatia,2017-01-14,China PR,Croatia,China PR,unknown
+2017-02-01,Burkina Faso,Egypt,1,1,African Cup of Nations,Libreville,Gabon,True,2017-02-01_Burkina Faso_Egypt,2017-02-01,Burkina Faso,Egypt,Egypt,unknown
+2017-06-10,Northern Cyprus,Padania,1,1,CONIFA European Football Cup,Nicosia,Northern Cyprus,False,2017-06-10_Northern Cyprus_Padania,2017-06-10,Northern Cyprus,Padania,Padania,unknown
+2017-06-29,Greenland,Menorca,1,1,Island Games,Väskinde,Sweden,True,2017-06-29_Greenland_Menorca,2017-06-29,Greenland,Menorca,Greenland,unknown
+2017-06-29,Hitra,Western Isles,1,1,Island Games,Stenkyrka,Sweden,True,2017-06-29_Hitra_Western Isles,2017-06-29,Hitra,Western Isles,Western Isles,unknown
+2018-03-21,South Africa,Angola,1,1,Friendly,Ndola,Zambia,True,2018-03-21_South Africa_Angola,2018-03-21,South Africa,Angola,South Africa,unknown
+2018-06-03,Zimbabwe,Botswana,1,1,COSAFA Cup,Polokwane,South Africa,True,2018-06-03_Zimbabwe_Botswana,2018-06-03,Zimbabwe,Botswana,Zimbabwe,unknown
+2018-06-09,Tibet,United Koreans in Japan,1,1,CONIFA World Football Cup,Rotherhithe,England,True,2018-06-09_Tibet_United Koreans in Japan,2018-06-09,Tibet,United Koreans in Japan,United Koreans in Japan,unknown
+2018-07-01,Russia,Spain,1,1,FIFA World Cup,Moscow,Russia,False,2018-07-01_Russia_Spain,2018-07-01,Russia,Spain,Russia,Spain
+2018-07-01,Croatia,Denmark,1,1,FIFA World Cup,Nizhny Novgorod,Russia,True,2018-07-01_Croatia_Denmark,2018-07-01,Croatia,Denmark,Croatia,Denmark
+2018-07-03,Colombia,England,1,1,FIFA World Cup,Moscow,Russia,True,2018-07-03_Colombia_England,2018-07-03,Colombia,England,England,Colombia
+2019-01-20,Jordan,Vietnam,1,1,AFC Asian Cup,Dubai,United Arab Emirates,True,2019-01-20_Jordan_Vietnam,2019-01-20,Jordan,Vietnam,Vietnam,unknown
+2019-03-23,Oman,Singapore,1,1,Friendly,Kuala Lumpur,Malaysia,True,2019-03-23_Oman_Singapore,2019-03-23,Oman,Singapore,Oman,unknown
+2019-06-04,South Africa,Uganda,1,1,COSAFA Cup,Durban,South Africa,False,2019-06-04_South Africa_Uganda,2019-06-04,South Africa,Uganda,South Africa,unknown
+2019-06-06,Abkhazia,Western Armenia,1,1,CONIFA European Football Cup,Stepanakert,Azerbaijan,True,2019-06-06_Abkhazia_Western Armenia,2019-06-06,Abkhazia,Western Armenia,Western Armenia,unknown
+2019-06-29,Mexico,Costa Rica,1,1,Gold Cup,Houston,United States,True,2019-06-29_Mexico_Costa Rica,2019-06-29,Mexico,Costa Rica,Mexico,unknown
+2019-07-05,Morocco,Benin,1,1,African Cup of Nations,Cairo,Egypt,True,2019-07-05_Morocco_Benin,2019-07-05,Morocco,Benin,Benin,unknown
+2019-07-08,Ghana,Tunisia,1,1,African Cup of Nations,Ismaila,Egypt,True,2019-07-08_Ghana_Tunisia,2019-07-08,Ghana,Tunisia,Tunisia,unknown
+2019-07-11,Ivory Coast,Algeria,1,1,African Cup of Nations,Suez,Egypt,True,2019-07-11_Ivory Coast_Algeria,2019-07-11,Ivory Coast,Algeria,Algeria,unknown
+2019-09-08,Tanzania,Burundi,1,1,FIFA World Cup qualification,Dar es Salaam,Tanzania,False,2019-09-08_Tanzania_Burundi,2019-09-08,Tanzania,Burundi,Tanzania,unknown
+2019-10-13,Gambia,Djibouti,1,1,African Cup of Nations qualification,Bakau,Gambia,False,2019-10-13_Gambia_Djibouti,2019-10-13,Gambia,Djibouti,Gambia,unknown
+2020-10-08,Bosnia and Herzegovina,Northern Ireland,1,1,UEFA Euro qualification,Sarajevo,Bosnia and Herzegovina,False,2020-10-08_Bosnia and Herzegovina_Northern Ireland,2020-10-08,Bosnia and Herzegovina,Northern Ireland,Northern Ireland,unknown
+2020-11-12,Serbia,Scotland,1,1,UEFA Euro qualification,Belgrade,Serbia,False,2020-11-12_Serbia_Scotland,2020-11-12,Serbia,Scotland,Scotland,unknown
+2021-07-02,Switzerland,Spain,1,1,UEFA Euro,Saint Petersburg,Russia,True,2021-07-02_Switzerland_Spain,2021-07-02,Switzerland,Spain,Spain,Spain
+2021-07-06,Trinidad and Tobago,French Guiana,1,1,Gold Cup qualification,Fort Lauderdale,United States,True,2021-07-06_Trinidad and Tobago_French Guiana,2021-07-06,Trinidad and Tobago,French Guiana,Trinidad and Tobago,unknown
+2021-07-06,Guatemala,Guadeloupe,1,1,Gold Cup qualification,Fort Lauderdale,United States,True,2021-07-06_Guatemala_Guadeloupe,2021-07-06,Guatemala,Guadeloupe,Guadeloupe,unknown
+2021-07-06,Italy,Spain,1,1,UEFA Euro,London,England,True,2021-07-06_Italy_Spain,2021-07-06,Italy,Spain,Italy,Italy
+2021-07-06,Argentina,Colombia,1,1,Copa América,Brasília,Brazil,True,2021-07-06_Argentina_Colombia,2021-07-06,Argentina,Colombia,Argentina,Colombia
+2021-07-11,England,Italy,1,1,UEFA Euro,London,England,False,2021-07-11_England_Italy,2021-07-11,England,Italy,Italy,Italy
+2021-07-18,Eswatini,Mozambique,1,1,COSAFA Cup,Port Elizabeth,South Africa,True,2021-07-18_Eswatini_Mozambique,2021-07-18,Eswatini,Mozambique,Eswatini,unknown
+2022-01-23,Burkina Faso,Gabon,1,1,African Cup of Nations,Limbé,Cameroon,True,2022-01-23_Burkina Faso_Gabon,2022-01-23,Burkina Faso,Gabon,Burkina Faso,unknown
+2022-03-25,Tajikistan,Uganda,1,1,Navruz Cup,Namangan,Uzbekistan,True,2022-03-25_Tajikistan_Uganda,2022-03-25,Tajikistan,Uganda,Uganda,unknown
+2022-09-22,Thailand,Malaysia,1,1,King's Cup,Chiang Mai,Thailand,False,2022-09-22_Thailand_Malaysia,2022-09-22,Thailand,Malaysia,Malaysia,unknown
+2022-09-23,Iraq,Oman,1,1,Jordan International Tournament,Amman,Jordan,True,2022-09-23_Iraq_Oman,2022-09-23,Iraq,Oman,Oman,unknown
+2022-11-16,Latvia,Estonia,1,1,Baltic Cup,Riga,Latvia,False,2022-11-16_Latvia_Estonia,2022-11-16,Latvia,Estonia,Latvia,unknown
+2022-11-19,Latvia,Iceland,1,1,Baltic Cup,Riga,Latvia,False,2022-11-19_Latvia_Iceland,2022-11-19,Latvia,Iceland,Iceland,unknown
+2022-12-05,Japan,Croatia,1,1,FIFA World Cup,Al Wakrah,Qatar,True,2022-12-05_Japan_Croatia,2022-12-05,Japan,Croatia,Croatia,Japan
+2022-12-09,Croatia,Brazil,1,1,FIFA World Cup,Al Rayyan,Qatar,True,2022-12-09_Croatia_Brazil,2022-12-09,Croatia,Brazil,Croatia,Croatia
+2023-06-16,Curaçao,Saint Kitts and Nevis,1,1,Gold Cup qualification,Fort Lauderdale,United States,True,2023-06-16_Curaçao_Saint Kitts and Nevis,2023-06-16,Curaçao,Saint Kitts and Nevis,Saint Kitts and Nevis,unknown
+2023-06-17,Guyana,Grenada,1,1,Gold Cup qualification,Fort Lauderdale,United States,True,2023-06-17_Guyana_Grenada,2023-06-17,Guyana,Grenada,Guyana,unknown
+2023-06-20,Saint Kitts and Nevis,French Guiana,1,1,Gold Cup qualification,Fort Lauderdale,United States,True,2023-06-20_Saint Kitts and Nevis_French Guiana,2023-06-20,Saint Kitts and Nevis,French Guiana,Saint Kitts and Nevis,unknown
+2023-07-04,India,Kuwait,1,1,SAFF Cup,Bengaluru,India,False,2023-07-04_India_Kuwait,2023-07-04,India,Kuwait,India,unknown
+2023-07-12,United States,Panama,1,1,Gold Cup,San Diego,United States,False,2023-07-12_United States_Panama,2023-07-12,United States,Panama,Panama,unknown
+2023-07-13,Åland,Falkland Islands,1,1,Island Games,Saint Sampson,Guernsey,True,2023-07-13_Åland_Falkland Islands,2023-07-13,Åland,Falkland Islands,Åland,unknown
